@@ -19,4 +19,5 @@ Recently, I returned to China from London. Because of coronavirus, international
 I hope to complete the development of AR games through Unity in the final project. Thanks to Professor Phoenix Perry for her inspiration, I decided to take a self-taught Unity AR course and combine the Unity technology I learned in the previous semester.
 
 
+Sorry for the bad environment, this quarantine hotel is older than me.
 
