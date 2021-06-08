@@ -4,12 +4,12 @@
 **CCI Advanced Visualisation and Computational Environments Final Project**
 
 
-![]()
+![Game Screenshot]()
 
-[Game Demo Link]()
+[Game Demo Link](https://youtu.be/ti3njuobzAQ)
 
 
-[Document Link]()
+[Document Link](https://www.notion.so/Advanced-Visualisation-and-Computational-Environments-Project-109f500bf9bb42fab7bf81f7a591253e)
 
 
 
